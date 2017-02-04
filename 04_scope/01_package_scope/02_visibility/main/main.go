@@ -2,7 +2,7 @@ package main
 
 import (
 
-	"github.com/GoesToEleven/GolangTraining/04_scope/01_package-scope/02_visibility/vis"
+	"github.com/imorti/udemygolang/04_scope/01_package_scope/02_visibility/vis"
 	"fmt"
 )
 
