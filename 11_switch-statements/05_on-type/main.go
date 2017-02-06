@@ -32,6 +32,7 @@ func main() {
 	SwitchOnType("McLeod")
 	var t = contact{"Good to see you,", "Tim"}
 	SwitchOnType(t)
+	//fmt.Println(t)
 	SwitchOnType(t.greeting)
 	SwitchOnType(t.name)
 }
