@@ -1,9 +1,8 @@
 package main
 
 import (
-
-	"github.com/imorti/udemygolang/04_scope/01_package_scope/02_visibility/vis"
 	"fmt"
+	"github.com/imorti/udemygolang/04_scope/01_package_scope/02_visibility/vis"
 )
 
 func main() {

@@ -4,7 +4,6 @@ import "fmt"
 
 func main() {
 
-
 	a := 10
 	b := "golang"
 	c := 4.17
@@ -20,7 +19,5 @@ func main() {
 	fmt.Printf("%T \n", e)
 	fmt.Printf("%T \n", f)
 	fmt.Printf("%T \n", g)
-
-
 
 }

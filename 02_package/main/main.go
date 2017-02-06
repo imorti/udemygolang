@@ -1,6 +1,5 @@
 package main
 
-
 import (
 	"fmt"
 	"github.com/imorti/udemygolang/02_package/stringutil"

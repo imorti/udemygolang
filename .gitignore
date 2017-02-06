@@ -26,6 +26,7 @@ _testmain.go
 # WebStorm
 *.iml
 
+
 # Directory-based project format:
 .idea/
 .idea/workspace.xml
@@ -51,4 +52,3 @@ builds/**/images/*
 *.xxjson
 
 
-udemygolang/
